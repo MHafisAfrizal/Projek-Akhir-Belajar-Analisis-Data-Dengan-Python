@@ -46,7 +46,7 @@ Instruksi spesifik untuk menyiapkan dependensi menggunakan shell/terminal (CMD d
          
 
   3. **You can now view your Streamlit app in your browser**.
-Local URL: http://localhost:8501
+    -Local URL: http://localhost:8501
 
 ![ss1](https://github.com/user-attachments/assets/f000060c-fa03-4f43-b750-1cc404056c2d)
 ![ss2](https://github.com/user-attachments/assets/8a9e9fe3-b44c-435e-8e17-6673d5d69051)
